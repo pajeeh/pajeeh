@@ -13,6 +13,8 @@
 
 
 <!--<br/> -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=pajeeh&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&border_color=00FF00&title_color=39FF14&text_color=32CD32&custom_title=Paj%C3%A9%20GitHub%20Stats"/>  
+  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajeeh&include_all_commits=true&show_icons=true&layout=compact&langs_count=10&theme=merko&hide_border=false&border_color=00FF00&title_color=39FF14&text_color=32CD32"/>
 </a>
 </div>
