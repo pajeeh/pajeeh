@@ -83,7 +83,7 @@
 <h3><strong>🏆 GitHub Trophies:</strong><h3>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajeeh" alt="pajeeh" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajeeh&theme=matrix&column=4&margin-w=15&margin-h=15" alt="pajeeh" /></a> 
 </p>
 </div>
 
