@@ -109,7 +109,7 @@
 </a>
 <br/><br/>
 
-[![Spotify](https://novatorem-pajeeh.vercel.app/api/spotify?background_color=0d1117&border_color=00FF00&)](https://open.spotify.com/user/t7jdtrhmk7joivnm2cdd3c9py)
+[![Spotify](https://novatorem-pajeeh.vercel.app/api/spotify?background_color=0d1117&border_color=00FF00&)](https://open.spotify.com/user/31etn46gjylb5ato4yieowc2rqq4)
 </div>
 <br/>
 
