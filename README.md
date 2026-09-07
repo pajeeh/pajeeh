@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Pajé 👋🏽</h1>
-  <p><strong>Desenvolvedor, estudante de ADS na FT Unicamp e curioso por sistemas que misturam produto, código e personalidade.</strong></p>
+  <p><strong>Desenvolvedor, desenvolvedor Flutter e Front-End, curioso por sistemas que misturam produto, código e personalidade.</strong></p>
   <p>
     <a href="https://github.com/pajeeh?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
     <a href="https://linkedin.com/in/lagsantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
