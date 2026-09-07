@@ -1,133 +1,54 @@
 <div align="center">
-<h1 align="center">
-<img src="https://i.gifer.com/XlO7.gif" width="45"/> नमस्ते (Namaste)🙏🏽Pode me chamar de Pajé bro ! <img src="https://i.gifer.com/WG8Q.gif" width="40"></h1>
+  <h1>Olá, eu sou o Pajé 👋🏽</h1>
+  <p><strong>Desenvolvedor, estudante de ADS na FT Unicamp e curioso por sistemas que misturam produto, código e personalidade.</strong></p>
+  <p>
+    <a href="https://github.com/pajeeh?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
+    <a href="https://linkedin.com/in/lagsantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/_pajeeh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 </div>
-<br/>
 
-<h2 align="left"><strong>My GitHub Statistics:</strong></h2>
-<br/>
-<div align="center">
+## Em destaque: Aurora 🎧
 
-<a href="https://github.com/pajeeh">
+Meu “Spotify turbinado”: uma experiência musical pessoal, com interface própria e reprodução oficial pelo YouTube. O Aurora já conecta minha conta, lê playlists, pesquisa músicas e controla o player real.
 
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=pajeeh&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&border_color=00FF00&title_color=39FF14&text_color=32CD32&custom_title=Paj%C3%A9%20GitHub%20Stats"/>  
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajeeh&include_all_commits=true&show_icons=true&layout=compact&langs_count=10&theme=merko&hide_border=false&border_color=00FF00&title_color=39FF14&text_color=32CD32"/>
+<a href="https://pajeeh.github.io/aurora-music/">
+  <img src="https://raw.githubusercontent.com/pajeeh/aurora-music/main/public/aurora-card.svg" alt="Aurora — tocando agora" width="100%" />
 </a>
-</div>
 
-<br/>
+> O card acima é a identidade visual da integração. A atualização pública em tempo real está sendo construída com um serviço próprio e seguro — sem expor credenciais no navegador.
 
-<div align="center">
-<a href="https://github.com/pajeeh">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pajeeh&theme=hacker&date_format=j%20M%5B%20Y%5D&border=00FF00&fire=00FF00&ring=30D711" alt="pajeeh"/>
-</a>
-</div>
-<br/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-<br/>
-
-- 🔭 I’m currently working with **Android Development**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨🏽‍💻 From time to time I participate in CTFs at [Hack The Box](https://app.hackthebox.com/users/393868)
-
-- 💬 Let's talk about **InfoSec and network vulnerabilities**
-
-- ⚡ Fun fact: **There are 10 types of people, those who understand binary, and those who don't.😆**
-
-<br/>
-
-<div><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<p align="center"><em><strong>Estudante de análise e desenvolvimento de sistemas em </strong><a href="https://www.ft.unicamp.br/">FT UNICAMP
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<br/>
-
-<h3 align="center"><img align="center" src="https://www.svgrepo.com/show/184138/linux.svg" width="30"/> Apaixonado por Linux💖 </h3>
-
-<br/>
-<div align="center">
-<h3 align="left"><strong>Languages & Tools:</strong></h3>
-<br/>
-<p align="center"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://pajeeh.github.io/aurora-music/"><strong>▶ Abrir o Aurora</strong></a>
+  ·
+  <a href="https://github.com/pajeeh/aurora-music"><strong>Ver o projeto</strong></a>
 </p>
-</div>
 
-<br/>
-
-<div align="left" style="display: inline_block">
-<h3><strong>🏆 GitHub Trophies:</strong><h3>
-<br/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajeeh&theme=matrix&column=4&margin-w=15&margin-h=15" alt="pajeeh" /></a> 
-</p>
-</div>
-
-<h3><strong>🔧 More Technologies & Tools</strong></h3>
-
-<div align="left" style="display:inline_block"><br>
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-</div>
-
-<br/>
-
-<div align="center">
-<h2 align="center"> <strong>O que estou ouvindo no YouTube Music 🎧</strong></h2>
-<br/>
-<a href="https://music.youtube.com/">
-    <img align="center" height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg">
+<a href="https://pajeeh.github.io/aurora-music/">
+  <img src="https://raw.githubusercontent.com/pajeeh/aurora-music/main/docs/screenshots/aurora-desktop.png" alt="Interface desktop do Aurora" width="100%" />
 </a>
-<br/><br/>
-Aguardando a mágica acontecer...
-</div>
-<br/>
 
+## Sobre mim
 
-<h2 align="left"><strong>Where to find me:</strong></h2>
-<br/>
-<div >
-<a href="https://github.com/pajeeh" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://instagram.com/_pajeeh" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/lagsantos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lagsantos"></a>
-</div>
-<br/>
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FT Unicamp**.
+- 🐧 Apaixonado por Linux, automação e experiências digitais bem construídas.
+- 🔐 De vez em quando encaro CTFs no [Hack The Box](https://app.hackthebox.com/users/393868).
+- 🧠 Gosto de transformar ideias meio malucas em projetos que realmente funcionam.
+- 🛠️ Atualmente explorando React, TypeScript, Android e integrações entre plataformas.
 
-<div>
-<h3 align="left"><strong>Support:</strong></h3>
-<br/>
-<p><a href="https://www.buymeacoffee.com/pajeeh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="pajeeh"/></a></p>
-</div>
-<br/>
+## Tecnologias que aparecem por aqui
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,androidstudio,kotlin,flutter,dart,python,c,cpp,docker,git,linux,firebase,mysql,blender&perline=8" alt="TypeScript, React, Node.js, Android, Kotlin, Flutter, Dart, Python, C, C++, Docker, Git, Linux, Firebase, MySQL e Blender" />
+</p>
+
+## GitHub
 
 <div align="center">
-<h3 align="center"><strong>Profile Views</strong></h3>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pajeeh&show_icons=true&theme=transparent&hide_border=true&title_color=a184ff&icon_color=4ed9bd&text_color=bdb5c7" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajeeh&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=a184ff&text_color=bdb5c7" alt="Linguagens mais usadas" />
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/pajeeh/count.svg)
-
+<div align="center">
+  <sub>Construindo, quebrando, entendendo e tentando de novo.</sub>
 </div>
