@@ -1,41 +1,60 @@
 <div align="center">
-  <h1>Olá, eu sou o Pajé 👋🏽</h1>
-  <p><strong>Desenvolvedor Flutter e Front-End, curioso por sistemas que misturam produto, código e personalidade.</strong></p>
+  <h1>Pajé — código com personalidade.</h1>
+  <p><strong>Eu construo produtos digitais que misturam interfaces, automação e sistemas.</strong></p>
+  <p>Flutter · React · TypeScript · experiências que saem da ideia e chegam funcionando.</p>
   <p>
-    <a href="https://github.com/pajeeh?tab=repositories"><img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
-    <a href="https://linkedin.com/in/lagsantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/_pajeeh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://github.com/pajeeh?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projetos" /></a>
+    <a href="https://linkedin.com/in/lagsantos"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/_pajeeh"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
-## Em destaque: Aurora 🎧
+## O que está tocando no meu código 🎧
 
-Meu “Spotify turbinado”: uma experiência musical pessoal, com interface própria e reprodução oficial pelo YouTube. O Aurora já conecta minha conta, lê playlists, pesquisa músicas e controla o player real.
+O [Aurora](https://pajeeh.github.io/aurora-music/) é meu player musical pessoal: interface própria, reprodução oficial pelo YouTube, biblioteca, playlists e sessões compartilhadas pelo Aurora Connect. O card abaixo recebe o estado do player real.
 
 <a href="https://pajeeh.github.io/aurora-music/">
-  <img src="https://aurora-edge.aurora-edge.workers.dev/now-playing.svg" alt="Aurora — tocando agora" width="100%" />
+  <img src="https://aurora-edge.aurora-edge.workers.dev/now-playing.svg?v=2" alt="Aurora — faixa tocando agora" width="100%" />
 </a>
-
-> O card mostra a faixa enviada pelo Aurora. Depois de três minutos sem atualização, ele passa a exibir a última faixa. O GitHub pode levar alguns minutos para renovar a imagem por causa do cache.
 
 <p align="center">
   <a href="https://pajeeh.github.io/aurora-music/"><strong>▶ Abrir o Aurora</strong></a>
-  ·
-  <a href="https://github.com/pajeeh/aurora-music"><strong>Ver o projeto</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/pajeeh/aurora-music"><strong>Explorar o código</strong></a>
 </p>
 
-<a href="https://pajeeh.github.io/aurora-music/">
-  <img src="https://raw.githubusercontent.com/pajeeh/aurora-music/main/docs/screenshots/aurora-desktop.png" alt="Interface desktop do Aurora" width="100%" />
-</a>
+<sub>Quando o Aurora está aberto, o vinil, o pulso e o equalizador entram em movimento. O GitHub pode levar alguns minutos para renovar a imagem por causa do cache.</sub>
 
-## Sobre mim
+## Projetos em destaque
 
-- 🐧 Apaixonado por Linux, automação e experiências digitais bem construídas.
-- 🔐 De vez em quando encaro CTFs no [Hack The Box](https://app.hackthebox.com/users/393868).
-- 🧠 Gosto de transformar ideias meio malucas em projetos que realmente funcionam.
-- 🛠️ Atualmente explorando React, TypeScript, Android e integrações entre plataformas.
+| Projeto | O que tem de especial | Stack |
+|:--|:--|:--|
+| **[Aurora Music](https://github.com/pajeeh/aurora-music)** | Player musical completo com YouTube, Google OAuth, biblioteca, PWA, card ao vivo e sessões compartilhadas. **[Abrir app →](https://pajeeh.github.io/aurora-music/)** | `React` `TypeScript` `Cloudflare` |
+| **[FreelaVerse Showcase](https://github.com/pajeeh/FreelaVerse-Showcase)** | Uma simulação de guerra cibernética online, com jogadores, invasões, servidores e ranking. | `Game design` `Web` |
+| **[Donkey Kong Retro](https://github.com/pajeeh/donkey-kong-retro)** | Releitura jogável de um clássico, publicada direto no navegador. **[Jogar →](https://pajeeh.github.io/donkey-kong-retro/)** | `JavaScript` `MakeCode` |
+| **[App Repúblicas](https://github.com/pajeeh/App-Republicas)** | Aplicativo para ajudar estudantes a encontrar moradia perto da faculdade. | `Flutter` `Dart` |
 
-## Tecnologias que aparecem por aqui
+## Agora
+
+- 🎛️ Transformando o Aurora em um produto musical completo, do player ao backend.
+- ☁️ Construindo integrações com Cloudflare, Google e YouTube.
+- 🎮 Explorando experiências interativas, jogos e interfaces com identidade.
+- 🐧 Automatizando tudo que ficar repetitivo no Linux.
+
+## Minha caixa de ferramentas
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-101827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" />
+</p>
+
+<details>
+<summary><strong>⚡ Abrir o arsenal completo de badges</strong></summary>
+<br />
 
 ### Linguagens
 
@@ -80,11 +99,6 @@ Meu “Spotify turbinado”: uma experiência musical pessoal, com interface pr�
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=111" />
   <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
-
-### APIs e plataformas
-
-<p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img alt="YouTube API" src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -92,18 +106,15 @@ Meu “Spotify turbinado”: uma experiência musical pessoal, com interface pr�
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
-## GitHub
+</details>
+
+## GitHub em números
 
 <p align="center">
   <img alt="Seguidores" src="https://img.shields.io/github/followers/pajeeh?style=for-the-badge&logo=github&label=Seguidores&color=8b7cf6" />
   <img alt="Estrelas do Aurora" src="https://img.shields.io/github/stars/pajeeh/aurora-music?style=for-the-badge&logo=github&label=Estrelas%20do%20Aurora&color=65d9d0" />
   <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=pajeeh&style=for-the-badge&color=7c66dc&label=VISITAS" />
 </p>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pajeeh&show_icons=true&theme=transparent&hide_border=true&title_color=a184ff&icon_color=4ed9bd&text_color=bdb5c7" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajeeh&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=a184ff&text_color=bdb5c7" alt="Linguagens mais usadas" />
-</div>
 
 <div align="center">
   <sub>Construindo, quebrando, entendendo e tentando de novo.</sub>
