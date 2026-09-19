@@ -14,7 +14,7 @@
 O [Aurora](https://pajeeh.github.io/aurora-music/) é meu player musical pessoal: interface própria, reprodução oficial pelo YouTube, biblioteca, playlists e sessões compartilhadas pelo Aurora Connect. O card abaixo recebe o estado do player real.
 
 <a href="https://pajeeh.github.io/aurora-music/">
-  <img src="https://aurora-edge.aurora-edge.workers.dev/now-playing.svg?v=3" alt="Aurora — faixa tocando agora" width="100%" />
+  <img src="https://aurora-edge.aurora-edge.workers.dev/now-playing.svg?v=4" alt="Aurora — faixa tocando agora" width="100%" />
 </a>
 
 <p align="center">
@@ -23,7 +23,7 @@ O [Aurora](https://pajeeh.github.io/aurora-music/) é meu player musical pessoal
   <a href="https://github.com/pajeeh/aurora-music"><strong>Explorar o código</strong></a>
 </p>
 
-<sub>Quando o Aurora está aberto, o vinil, o pulso e o equalizador entram em movimento. O GitHub pode levar alguns minutos para renovar a imagem por causa do cache.</sub>
+<sub>Quando o Aurora está aberto, as auroras, o progresso e o equalizador entram em movimento. O GitHub pode levar alguns minutos para renovar a imagem por causa do cache.</sub>
 
 ## Projetos em destaque
 
