@@ -13,10 +13,10 @@
 Meu “Spotify turbinado”: uma experiência musical pessoal, com interface própria e reprodução oficial pelo YouTube. O Aurora já conecta minha conta, lê playlists, pesquisa músicas e controla o player real.
 
 <a href="https://pajeeh.github.io/aurora-music/">
-  <img src="https://raw.githubusercontent.com/pajeeh/aurora-music/main/public/aurora-card.svg" alt="Aurora — tocando agora" width="100%" />
+  <img src="https://aurora-edge.aurora-edge.workers.dev/now-playing.svg" alt="Aurora — tocando agora" width="100%" />
 </a>
 
-> O card acima é a identidade visual da integração. A atualização pública em tempo real está sendo construída com um serviço próprio e seguro — sem expor credenciais no navegador.
+> O card mostra a faixa enviada pelo Aurora. Depois de três minutos sem atualização, ele passa a exibir a última faixa. O GitHub pode levar alguns minutos para renovar a imagem por causa do cache.
 
 <p align="center">
   <a href="https://pajeeh.github.io/aurora-music/"><strong>▶ Abrir o Aurora</strong></a>
